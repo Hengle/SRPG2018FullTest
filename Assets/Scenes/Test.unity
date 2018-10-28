@@ -12505,7 +12505,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 523639772}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad32b717ba09fdf43b8f46ccc2c81f11, type: 3}
+  m_Script: {fileID: 11500000, guid: d2691ed4f12c83541b6ab6ffc4805586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _turnTextBox: {fileID: 772372931}
@@ -27002,11 +27002,11 @@ MonoBehaviour:
   _endCommandButton: {fileID: 844781610}
   _touchBlocker: {fileID: 1395844252}
   _turnSetInfoWindow: {fileID: 523639774}
-  _unitInfoWindow: {fileID: 791872175}
-  _moveAmountInfoWindow: {fileID: 982892777}
-  _attackInfoWindow: {fileID: 1656798075}
-  _attackSelectWindow: {fileID: 497487990}
-  _rangeAttackNozzle: {fileID: 1044302851}
+  _unitInfoWindow: {fileID: 0}
+  _moveAmountInfoWindow: {fileID: 0}
+  _attackInfoWindow: {fileID: 0}
+  _attackSelectWindow: {fileID: 0}
+  _rangeAttackNozzle: {fileID: 0}
 --- !u!1 &1154556935
 GameObject:
   m_ObjectHideFlags: 0
